@@ -3,6 +3,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "com.yourcompany.mdapp",
-    "sha256_cert_fingerprints": ["AD:63:3A:51:8D:C2:26:4E:8D:60:DE:18:51:D2:F6:37:FD:1F:D2:C5:35:76:41:35:2D:89:4F:AC:68:43:EB:01"]
+    "sha256_cert_fingerprints": ["AD:63:3A:51:8D:C2:26:4E:8D:60:DE:18:51:D2:F6:37:FD:1F:D2:C5:35:76:41:35:2D:89:4F:AC:68:43:EB:01","87:FA:4F:B0:F5:4F:D1:2D:99:DC:3C:4F:88:57:42:48:10:FF:82:2E:8A:6B:2C:5E:24:18:9D:6B:67:23:99:56"]
   }
 }]
